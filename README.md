@@ -98,7 +98,7 @@ So a normal signature from our known `sk` verifies as if all robots signed.
 ## Flag
 
 ```text
-HTB{uNv31leD_5eCre7s_0f_BLS_r0gu3_k3y_4t7aCk_w1th_cu5t0m_zkp_4nd_ec-lcg!!_2a3528073a6c7cee3ee46c5f41df200a}
+HTB{D0_1T_8y_Y0U1253LF_SK1DDD}
 ```
 
 ## Lesson
